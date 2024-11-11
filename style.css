@@ -94,8 +94,8 @@ header .current-date {
 .days li.active {
   color: #fff;
   background-color: #9B59B6;
-  border-radius: 50%;
-  padding: 20px;
+  border-radius: 40%;
+  padding: 10px;
 }
 .days li::before {
   position: absolute;
