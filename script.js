@@ -3,8 +3,9 @@
 const events = {
     '25-12-2024': 'Christmas Day',
     '01-01-2025': 'New Year\'s Day',
-    '12-11-2024': 'Adlaw sa mga gwapo',
-    '13-11-2024': 'Imong mama'
+    '12-11-2024': 'Adlaw sa mga Gwapo Event Adlaw sa mga buang',
+    '13-11-2024': 'Imong mama',
+    '15-11-2024': 'Gwapoko'
   };
   
   const daysTag = document.querySelector(".days"),
